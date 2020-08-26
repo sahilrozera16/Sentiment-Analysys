@@ -29,3 +29,11 @@ train.csv - For training the models, we provide a labelled dataset of 31,962 twe
 There is 1 test file (public)
 
 test_tweets.csv - The test data file contains only tweet ids and the tweet text with each tweet in a new line.
+
+**Score**
+
+nltk + word2vec + XGBoost   =  0.6959
+
+spacy + tf-idf + svc = 0.6964
+
+bert = 0.7668
