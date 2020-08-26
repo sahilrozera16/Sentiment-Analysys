@@ -1,3 +1,4 @@
+![alt text](https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/practice_prob_1-thumbnail-1200x1200.png)
 **Twitter Sentiment Analysis**
 
 Sentiment Analysisrefers to the use ofnatural language processing,text analysis,computational linguistics, andbiometricsto systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied tovoice of the customermaterials such as reviews and survey responses, online and social media, and healthcare materials for applications that range frommarketingtocustomer serviceto clinical medicine
