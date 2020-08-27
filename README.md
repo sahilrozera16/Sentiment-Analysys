@@ -37,3 +37,9 @@ nltk + word2vec + XGBoost   =  0.6959
 spacy + tf-idf + svc = 0.6964
 
 bert = 0.7668
+
+**Leaderboard**
+
+Public - Rank-65(sahil8307)
+
+
